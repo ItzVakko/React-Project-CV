@@ -5,7 +5,7 @@ import MainWrapper from "./Main/MainWrapper";
 
 const InnerPage = () => {
   return (
-    <Box sx={{ display: "flex" }}>
+    <Box sx={{ display: "flex", overflowX: "hidden" }}>
       {/* Here is SideBar wrapper rendered */}
       <SideBarWrapper />
 
