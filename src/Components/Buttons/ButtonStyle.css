@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.know-more-button {
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  padding: 10px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 0;
+  border-radius: 5px;
+  background: var(--main-oxford-blue, #222935);
+  color: var(--main-white, #fff);
+  text-align: center;
+  line-height: 120%;
+}
+
+.know-more-button:hover {
+  background: var(--main-shamrock, #26c17e);
+}
+
+.goback-button-wrapper {
+  background: var(--main-oxford-blue, #222935);
+  display: flex;
+  justify-content: center;
+}
+
+.goback-button {
+  width: 77px;
+  height: 17px;
+  color: var(--main-white, #fff);
+  background: transparent;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 120%;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.small-goback-button {
+  width: 40px;
+  height: 30px;
+  border-radius: 5px;
+  background: var(--main-shamrock, #26c17e);
+  color: var(--main-white, #fff);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  cursor: pointer;
+}
