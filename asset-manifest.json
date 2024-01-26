@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Project-CV/static/css/main.348aeaad.css",
+    "main.js": "/React-Project-CV/static/js/main.84f005ee.js",
+    "static/media/portfolio-code-image.png": "/React-Project-CV/static/media/portfolio-code-image.261f64b7160a90af3e01.png",
+    "static/media/portfolio-ui-image.png": "/React-Project-CV/static/media/portfolio-ui-image.d11deff510d3494c9b12.png",
+    "static/media/feedback-person.png": "/React-Project-CV/static/media/feedback-person.3d4d5c17b084183979e7.png",
+    "static/media/outer-info-image.png": "/React-Project-CV/static/media/outer-info-image.1f1c43113ff02e2b5e40.png",
+    "static/media/outer-background.png": "/React-Project-CV/static/media/outer-background.41f4daf69ca4320ad696.png",
+    "index.html": "/React-Project-CV/index.html",
+    "static/media/list-header-toggle-icon.svg": "/React-Project-CV/static/media/list-header-toggle-icon.1e7c332e2827095203a0c49e4ee01b73.svg",
+    "static/media/list-header-toggle-icon-container.svg": "/React-Project-CV/static/media/list-header-toggle-icon-container.5bc3f5a08025bd28ef41.svg",
+    "main.348aeaad.css.map": "/React-Project-CV/static/css/main.348aeaad.css.map",
+    "main.84f005ee.js.map": "/React-Project-CV/static/js/main.84f005ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348aeaad.css",
+    "static/js/main.84f005ee.js"
+  ]
+}
