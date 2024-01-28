@@ -9,21 +9,14 @@ const AboutMe = () => {
     <Box id="aboutme">
       <MainTitle title="About me" />
       <Typography variant="p" component="p" className="main-text-content">
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-        ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-        ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa
-        quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget,
-        arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-        Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras
-        dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend
-        tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac,
-        enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-        Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean
-        imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper
-        ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus
-        eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing
-        sem neque
+        My name is Vako and i'm from georgia. I started to learn programming
+        five years ago. At first, i was studying it myself by using different
+        social networks. When i grew up, I learned programming mostly at a
+        company called Educity. It was with the help of this company that I
+        became a front-end developer. I take responsibility for all tasks and
+        have created several projects where my abilities are better seen and I
+        have used a lot of materials. I can easily learn new resources that I
+        come across in future projects and implement them perfectly.
       </Typography>
     </Box>
   );

@@ -19,7 +19,7 @@ const Contacts = () => {
           <PhoneNumberIcon />
           <div>
             <SecondaryTitle title="Phone number" />
-            <p className="contact-link">500 342 242</p>
+            <p className="contact-link">+995 598005518</p>
           </div>
         </div>
 
@@ -27,7 +27,7 @@ const Contacts = () => {
           <MailIcon />
           <div>
             <SecondaryTitle title="Email address" />
-            <p className="contact-link">kamsolutions.pl</p>
+            <p className="contact-link">itzvakkoofficial@gmail.com</p>
           </div>
         </div>
 
@@ -35,12 +35,8 @@ const Contacts = () => {
           <TwitterIcon />
           <div>
             <SecondaryTitle title="Twitter" />
-            <a
-              href="https://twitter.com/wordpress"
-              target="_blank"
-              className="contact-link"
-            >
-              https://twitter.com/wordpress
+            <a href="" target="_blank" className="contact-link">
+              Soon
             </a>
           </div>
         </div>
@@ -50,11 +46,11 @@ const Contacts = () => {
           <div>
             <SecondaryTitle title="Facebook" />
             <a
-              href="https://www.facebook.com/facebook"
+              href="https://www.facebook.com/profile.php?id=100011679248894"
               target="_blank"
               className="contact-link"
             >
-              https://www.facebook.com/facebook
+              https://www.facebook.com/profile.php?id=100011679248894
             </a>
           </div>
         </div>
@@ -63,8 +59,12 @@ const Contacts = () => {
           <GithubIcon />
           <div>
             <SecondaryTitle title="Github" />
-            <a href="kamsolutions.pl" target="_blank" className="contact-link">
-              kamsolutions.pl
+            <a
+              href="https://github.com/ItzVakko"
+              target="_blank"
+              className="contact-link"
+            >
+              https://github.com/ItzVakko
             </a>
           </div>
         </div>

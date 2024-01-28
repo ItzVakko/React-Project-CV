@@ -25,10 +25,12 @@ const Skills = () => {
       <MainTitle title="Skills" />
       <Box className="skills-level-wrapper">
         <SkillsLevelBar percentage="100" language="HTML" />
+        <SkillsLevelBar percentage="75" language="GIT" />
         <SkillsLevelBar percentage="70" language="CSS" />
-        <SkillsLevelBar percentage="60" language="jQuery" />
-        <SkillsLevelBar percentage="30" language="PHP" />
-        <SkillsLevelBar percentage="15" language="Laravel 2 (framework)" />
+        <SkillsLevelBar percentage="60" language="MaterialUI" />
+        <SkillsLevelBar percentage="50" language="React" />
+        <SkillsLevelBar percentage="40" language="JavaScript" />
+        <SkillsLevelBar percentage="25" language="Redux" />
       </Box>
 
       <Box className="skills-level-count-line">

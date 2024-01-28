@@ -31,7 +31,7 @@ const SideBarHeader = ({ open, setOpen }) => {
             }}
           ></div>
         </div>
-        {open && <h2 className="list-header-name">John Doe</h2>}
+        {open && <h2 className="list-header-name">Vako Kobulashvili</h2>}
       </div>
       <div
         className="list-header-open-button needs-to-hide-on-mobile"

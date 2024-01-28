@@ -35,7 +35,7 @@ const Education = () => {
             }}
           >
             <TimelineSeparator>
-              <SecondaryTitle title="1990" />
+              <SecondaryTitle title="2021" />
               <TimelineConnector
                 sx={{
                   width: "5px",
@@ -53,21 +53,18 @@ const Education = () => {
             >
               <TimelineArrowIcon />
 
-              <SecondaryTitle title="Title" />
+              <SecondaryTitle title="The beginning of a career!" />
 
               <Typography
                 variant="p"
                 component="p"
                 className="main-text-content"
               >
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                penatibus et magnis dis parturient montes, nascetur ridiculus
-                mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-                quis, sem. Nulla consequat massa quis enim. Donec pede justo,
-                fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo,
-                rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
-                felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+                In 2021, started learning programming myself and i was spending
+                almost my time in it. Web development was not what i wanted
+                then. I liked to create games. I had a lot of exposure to
+                computer technology and it was not difficult for me to do all
+                this.
               </Typography>
             </TimelineContent>
           </TimelineItem>
@@ -80,7 +77,7 @@ const Education = () => {
             }}
           >
             <TimelineSeparator>
-              <SecondaryTitle title="1991" />
+              <SecondaryTitle title="2022" />
               <TimelineConnector
                 sx={{
                   width: "5px",
@@ -98,21 +95,18 @@ const Education = () => {
             >
               <TimelineArrowIcon />
 
-              <SecondaryTitle title="Title" />
+              <SecondaryTitle title="Started learning web development!" />
 
               <Typography
                 variant="p"
                 component="p"
                 className="main-text-content"
               >
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                penatibus et magnis dis parturient montes, nascetur ridiculus
-                mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-                quis, sem. Nulla consequat massa quis enim. Donec pede justo,
-                fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo,
-                rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
-                felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+                In 2022, I realized that game development was not my work and
+                decided to learn web development. I created my first website in
+                2022 and it was only HTML, CSS. This profession came into me and
+                i was fond of it. At that time i started learning JavaScript. It
+                was a big challenge for me.
               </Typography>
             </TimelineContent>
           </TimelineItem>
@@ -125,7 +119,7 @@ const Education = () => {
             }}
           >
             <TimelineSeparator>
-              <SecondaryTitle title="1992" />
+              <SecondaryTitle title="2023" />
               <TimelineConnector
                 sx={{
                   width: "5px",
@@ -143,21 +137,22 @@ const Education = () => {
             >
               <TimelineArrowIcon />
 
-              <SecondaryTitle title="Title" />
+              <SecondaryTitle title="Became Front-End web developer!" />
 
               <Typography
                 variant="p"
                 component="p"
                 className="main-text-content"
               >
-                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                penatibus et magnis dis parturient montes, nascetur ridiculus
-                mus. Donec quam felis, ultricies nec, pellentesque eu, pretium
-                quis, sem. Nulla consequat massa quis enim. Donec pede justo,
-                fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo,
-                rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum
-                felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+                In 2023, my knowledge was not enough to start working and
+                decided to learn more. I searched every resources and found one
+                company called Educity. With the help of this company I was able
+                to become a front-end developer and it took a lot of effort. I
+                was multitasking and learning new resources. I studied
+                javascript and then react. I learned several libraries like
+                Axios, Redux, Swiper, Isotope-layout, MaterialUI, Bootstrap and
+                so on. Now I can work on projects of medium complexity and
+                complete them.
               </Typography>
             </TimelineContent>
           </TimelineItem>

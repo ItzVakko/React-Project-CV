@@ -73,44 +73,44 @@ const Portfolio = () => {
             onClick={() => setFilterKey("code-item")}
             className="portfolio-button"
           >
-            Code
+            Game
           </button>
           /
           <button
             onClick={() => setFilterKey("ui-item")}
             className="portfolio-button"
           >
-            UI
+            Website
           </button>
         </Box>
 
         <Box className="portfolio-cards-wrapper">
           <div className="portfolio-card-item code-item">
             <PortfolioHover
-              title="Some text"
-              description="Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis "
-              link="https://www.youtube.com/"
+              title="Dice Game"
+              description="It's a dice web game, in this project i used Javascript , HTML and CSS. It's a simple game!"
+              link="https://itzvakko.github.io/DiceGame/"
             />
           </div>
           <div className="portfolio-card-item code-item">
             <PortfolioHover
-              title="Some text"
-              description="Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis "
-              link="https://www.youtube.com/"
+              title="Guess-my-number Game"
+              description="It's a guess my number game, in this project i used Javascript , HTML and CSS. It's a simple game!"
+              link="https://itzvakko.github.io/Guess-my-number-Game/"
             />
           </div>
           <div className="portfolio-card-item ui-item">
             <PortfolioHover
-              title="Some text"
-              description="Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis "
-              link="https://www.youtube.com/"
+              title="Lattanta Website Project"
+              description="It's a lattanta website project, shop style, in this project i used Javascript functionals, pagination , swiper , fetching data and use it in cards, HTML CSS."
+              link="https://itzvakko.github.io/Lattanta-Website-Project/"
             />
           </div>
           <div className="portfolio-card-item ui-item">
             <PortfolioHover
-              title="Some text"
-              description="Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis "
-              link="https://www.youtube.com/"
+              title="Collection-Be Website Project"
+              description="It's a business style website project, in this project i used Redux, Javascript functional, fetching data, cart system, react router and so on!"
+              link="https://itzvakko.github.io/Collection-Be-Website-Project/"
             />
           </div>
         </Box>
