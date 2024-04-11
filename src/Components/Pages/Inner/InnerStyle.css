@@ -48,7 +48,7 @@ body::-webkit-scrollbar-thumb {
 .list-header-avatar {
   border-radius: 100px;
   border: 1px solid var(--main-white, #fff);
-  background: url("/src/Images/outer-info-image.png"),
+  background: url("/src/Images/outer-info-image.jpg"),
     lightgray 50% / cover no-repeat;
   background-size: 100% 100%;
 }
