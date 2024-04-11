@@ -32,7 +32,7 @@
   width: 150px;
   height: 150px;
   border: 1px solid var(--main-white, #fff);
-  background-image: url("/src/Images/outer-info-image.png");
+  background-image: url("/src/Images/outer-info-image.jpg");
   background-size: 100% 100%;
   border-radius: 50%;
 }
