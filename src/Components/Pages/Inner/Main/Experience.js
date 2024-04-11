@@ -55,7 +55,7 @@ const Experience = () => {
         />
 
         <ExperienceInfo
-          social="Very Good"
+          social="Junior"
           date="2021-2024"
           profession="Web Developer"
           description="Experienced React web developer, worked on several frameworks. For example: Redux, Redux/toolkit, Axios, Swiper, MaterialUI, Bootstrap."

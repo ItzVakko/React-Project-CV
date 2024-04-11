@@ -8,9 +8,9 @@ const OuterInfoBox = () => {
     <div className="outer-info-container">
       <div className="outer-info-image"></div>
       <h1 className="outer-info-name">Vako Kobulashvili</h1>
-      <h2 className="outer-info-profession">Front-End Web Developer</h2>
+      <h2 className="outer-info-profession">Full-Stack Web Developer</h2>
       <p className="outer-info-text">
-        i am front-end web developer, have an experience in several projects,
+        i am full-stack web developer, have an experience in several projects,
         currently student
       </p>
       <Link to="/inner" style={{ textDecoration: "none" }}>

@@ -137,7 +137,7 @@ const Education = () => {
             >
               <TimelineArrowIcon />
 
-              <SecondaryTitle title="Became Front-End web developer!" />
+              <SecondaryTitle title="Became Full-Stack web developer!" />
 
               <Typography
                 variant="p"
@@ -147,12 +147,12 @@ const Education = () => {
                 In 2023, my knowledge was not enough to start working and
                 decided to learn more. I searched every resources and found one
                 company called Educity. With the help of this company I was able
-                to become a front-end developer and it took a lot of effort. I
+                to become a full-stack developer and it took a lot of effort. I
                 was multitasking and learning new resources. I studied
-                javascript and then react. I learned several libraries like
-                Axios, Redux, Swiper, Isotope-layout, MaterialUI, Bootstrap and
-                so on. Now I can work on projects of medium complexity and
-                complete them.
+                javascript, react, node.js for back-end and other their
+                frameworks. I learned several libraries like Axios, Redux,
+                Swiper, Isotope-layout, MaterialUI, Bootstrap and so on. Now I
+                can work on projects of medium complexity and complete them.
               </Typography>
             </TimelineContent>
           </TimelineItem>

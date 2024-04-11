@@ -101,6 +101,13 @@ const Portfolio = () => {
           </div>
           <div className="portfolio-card-item ui-item">
             <PortfolioHover
+              title="Educity.ge Website Project"
+              description="It's Educity website project, in this project i used Javascript functionals, react, scroll animation, styled-components, custom hooks , swiper, emailJS, responsive , fetching data and use it in cards, HTML CSS."
+              link="https://educity.ge/"
+            />
+          </div>
+          <div className="portfolio-card-item ui-item">
+            <PortfolioHover
               title="Lattanta Website Project"
               description="It's a lattanta website project, shop style, in this project i used Javascript functionals, pagination , swiper , fetching data and use it in cards, HTML CSS."
               link="https://itzvakko.github.io/Lattanta-Website-Project/"
